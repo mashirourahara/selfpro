@@ -11,4 +11,4 @@ pafy
 youtube_dl
 tweepy
 wikipedia
-golate
+goslate
