@@ -1,0 +1,14 @@
+python3-pip
+bs4
+rsa
+gtts
+pytz
+thrift==0.11.0
+requests
+googletrans
+humanfriendly
+pafy
+youtube_dl
+tweepy
+wikipedia
+golate
