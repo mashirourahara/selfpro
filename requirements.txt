@@ -12,4 +12,4 @@ youtube_dl
 tweepy
 wikipedia
 goslate
-python selfpro.py
+
